@@ -1,0 +1,37 @@
+[
+  {
+    "trainingId": 1,
+    "trainingTitle": "Rise Up - Training 1",
+    "trainingType": "e-learning",
+    "trainingImage": "https://picsum.photos/200/300",
+    "createdDate": "2021-05-20 10:00:00"
+  },
+  {
+    "trainingId": 2,
+    "trainingTitle": "Rise Up - Training 2",
+    "trainingType": "Blended Learning",
+    "trainingImage": "https://picsum.photos/200/300",
+    "createdDate": "2021-05-10 11:00:00"
+  },
+  {
+    "trainingId": 3,
+    "trainingTitle": "Rise Up - Training 3",
+    "trainingType": "Physical",
+    "trainingImage": "https://picsum.photos/200/300",
+    "createdDate": "2021-05-01 17:00:00"
+  },
+  {
+    "trainingId": 4,
+    "trainingTitle": "Rise Up - Training 4",
+    "trainingType": "e-learning",
+    "trainingImage": "https://picsum.photos/200/300",
+    "createdDate": "2021-05-01 16:00:00"
+  },
+  {
+    "trainingId": 5,
+    "trainingTitle": "Rise Up - Training 5",
+    "trainingType": "e-learning",
+    "trainingImage": "https://picsum.photos/200/300",
+    "createdDate": "2021-04-28 16:00:00"
+  }
+]

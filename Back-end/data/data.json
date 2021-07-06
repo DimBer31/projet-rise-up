@@ -1,0 +1,37 @@
+[
+  {
+    "trainingId": 1,
+    "stepId": 1,
+    "stepName": "Rise Up",
+    "stepType": "text",
+    "stepContent": "Rise Up is the only platform dedicated to Blended Learning. These are all your tools within one single platform : manage trainings, authoring tool, e-learning and mobile learning."
+  },
+  {
+    "trainingId": 1,
+    "stepId": 2,
+    "stepName": "Who are we?",
+    "stepType": "text",
+    "stepContent": "Behind this project are two brothers, Guillaume and Arnaud, who want to revolutionise the training sector. So they create UpGraduate. Their goal is to allow every business and training organisation to create their own digital campus. All formats have been accepted from the start in order to best meet their clients’ needs: face-to-face training, remote training, online, webinars etc… In 2014, they created a simple-to-use white label platform and then quickly began to add content and train. In 2017, UpGraduate became Rise Up to support new offers highlighting face-to-face training. They were the first to take the obligations imposed by Datadock into account and facilitate a response to this reform’s criteria. In late 2018, observing the complexity of the sector, they decided to merge their training tools and bring everything together on a single platform including classroom training management, authoring software, e-learning and mobile application. Gone are the days of multiple subscriptions, profiles and inconsistencies."
+  },
+  {
+    "trainingId": 2,
+    "stepId": 3,
+    "stepName": "Our website",
+    "stepType": "iframe",
+    "stepContent": "https://riseup.ai"
+  },
+  {
+    "trainingId": 2,
+    "stepId": 4,
+    "stepName": "Join us!",
+    "stepType": "iframe",
+    "stepContent": "https://rise-up.welcomekit.co/"
+  },
+  {
+    "trainingId": 3,
+    "stepId": 5,
+    "stepName": "Rise Up Village",
+    "stepType": "image",
+    "stepContent": "/images/riseupvillage.jpg"
+  }
+]
